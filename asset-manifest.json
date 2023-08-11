@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/merchant-portal-build/static/css/main.b2b31ba0.css",
+    "main.css": "/merchant-portal-build/static/css/main.f8afffcd.css",
     "main.js": "/merchant-portal-build/static/js/main.8bbc3f9e.js",
     "static/js/787.d3befce1.chunk.js": "/merchant-portal-build/static/js/787.d3befce1.chunk.js",
     "static/media/Card.png": "/merchant-portal-build/static/media/Card.0107793b66e7411ba5dc.png",
     "index.html": "/merchant-portal-build/index.html",
-    "main.b2b31ba0.css.map": "/merchant-portal-build/static/css/main.b2b31ba0.css.map",
+    "main.f8afffcd.css.map": "/merchant-portal-build/static/css/main.f8afffcd.css.map",
     "main.8bbc3f9e.js.map": "/merchant-portal-build/static/js/main.8bbc3f9e.js.map",
     "787.d3befce1.chunk.js.map": "/merchant-portal-build/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2b31ba0.css",
+    "static/css/main.f8afffcd.css",
     "static/js/main.8bbc3f9e.js"
   ]
 }
